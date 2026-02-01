@@ -1,33 +1,44 @@
 # QA Portfolio – Karyna Shaptunova
 
 ## About Me
-I am a Junior QA Engineer with hands-on experience in manual web testing, test documentation, and defect reporting.  
-I have completed multiple internships where I tested real commercial websites, worked with requirements, and collaborated with development teams.
+I am a Junior QA Engineer with hands-on experience in manual web testing of real commercial projects, including medical and e-commerce websites.  
+I have experience working through the full testing cycle during active development: from requirements analysis and test planning to defect reporting and regression testing.
 
-I am currently studying Artificial Intelligence Engineering and continuously improving my skills in software testing and quality assurance.  
-Open to remote junior QA positions, preferably in Europe and Cyprus.
+I am currently studying Artificial Intelligence Engineering at Eastern Mediterranean University (Cyprus) and continuously developing my skills in software testing, automation, and AI-related technologies.  
+Open to remote junior QA opportunities, preferably in Europe and Cyprus.
 
 ---
 
-## Skills
-- Manual testing (Web applications)
+## Core QA Skills
+- Manual testing of web applications
 - Functional testing
-- UI & UX testing
-- Usability testing
 - Regression testing
-- Cross-browser and cross-platform testing
+- Smoke testing
+- Exploratory testing
+- Usability & UX testing
+- Cross-browser & cross-platform testing
 - Black-box testing
-- Test documentation creation
+- Negative testing
 
 ---
 
-## Tools
-- Jira
-- Browser DevTools (Console, Network, Elements)
-- MySQL (basic)
+## Test Documentation
+- Test cases
+- Checklists
+- Bug reports
+- Test plans
+- Test reports
+- Requirements-based testing
+
+---
+
+## Tools & Technologies
+- Jira (bug tracking, test documentation)
+- Browser DevTools (Console, Network, Elements, Device Toolbar)
+- MySQL (basic SQL queries)
 - Selenium IDE (basic)
 - Katalon Recorder (basic)
-- Apache JMeter (basic understanding)
+- Apache JMeter (basic understanding of load testing)
 - Microsoft Office / Google Docs
 
 ---
@@ -35,44 +46,60 @@ Open to remote junior QA positions, preferably in Europe and Cyprus.
 ## Repository Structure
 
 ### 📁 test-cases
-Contains structured manual test cases for web applications, including positive, negative, and edge-case scenarios.
+Contains structured manual test cases for web applications, covering positive, negative, and edge-case scenarios.  
+Each test case includes preconditions, steps, expected results, and priority.
 
 ### 📁 checklists
-Includes testing checklists used for quick validation of website functionality, UI, usability, and regression testing.
+Includes practical testing checklists used for functional, UI, usability, regression, and cross-browser testing.
 
 ### 📁 bug-reports
-Contains detailed bug reports created during testing of real web projects, including steps to reproduce, severity, priority, and impact analysis.
+Contains detailed bug reports created during testing of real projects, including steps to reproduce, severity, priority, and impact analysis.
 
 ### 📁 test-plan
-Includes test plans describing testing scope, strategy, approach, risks, and deliverables.
+Includes test plans describing testing scope, strategy, test approach, risks, and deliverables.
 
 ---
 
 ## Projects
 
-### Supmedic Medical Company Website
-- Conducted manual testing of a real medical company website
-- Performed functional, UI, usability, and cross-browser testing
+### Supmedic – Medical Company Website
+- Performed manual black-box testing during active website development
+- Tested functionality, UI, usability, and navigation
+- Conducted cross-browser and responsive testing
 - Identified navigation, usability, and functional defects
-- Created test cases, checklists, bug reports, and test plan
-- Applied black-box testing methodology
+- Created full test documentation: test cases, checklists, bug reports, and test plan
+- Worked with Chrome DevTools to analyze console and network errors
+
+### GroupTorgNedvizhimost – E-commerce Website
+- Tested web application during development phase
+- Detected critical defect related to database configuration affecting shopping cart functionality
+- Performed functional, regression, usability, and negative testing
+- Executed and analyzed basic load testing scenarios
+- Collaborated with developers to verify fixes
 
 ---
 
-## Key Strengths
+## Strengths
 - Strong attention to detail
 - User-oriented mindset
-- Ability to think critically and find non-obvious defects
-- Structured and well-documented testing approach
-- Experience working remotely in distributed teams
+- Ability to find non-obvious defects
+- Structured and analytical approach to testing
+- Fast learner and adaptable
+- Experience working in remote teams
+
+---
+
+## Education
+- **BSc in Artificial Intelligence Engineering** — Eastern Mediterranean University (ongoing)
+- **Diploma in Software Testing** — College of Belarusian State Academy of Telecommunications
 
 ---
 
 ## Contact
-- LinkedIn: (add your LinkedIn profile link)
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/karyna-shaptunova/
+- GitHub: https://github.com/karyna-shaptunova
 
 ---
 
 ## Status
-This portfolio is actively maintained and will be expanded with new test cases, bug reports, and testing artifacts.
+This QA portfolio is actively maintained and regularly updated with new testing artifacts and projects.
