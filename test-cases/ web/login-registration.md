@@ -3,6 +3,7 @@
 - User is not logged in
 - User is on login page  
 **Type:** Functional
+
 **Steps:**
 1. Enter valid username
 2. Enter valid password
@@ -14,6 +15,7 @@
 - User is not logged in
 - User is on login page
 **Type:** Negative  
+
 **Steps:**
 1. Enter invalid username
 2. Enter valid password
@@ -25,6 +27,7 @@
 - User is not logged in
 - User is on login page
 **Type:** Negative  
+
 **Steps:**
 1. Enter valid username
 2. Enter invalid password
