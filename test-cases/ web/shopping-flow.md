@@ -19,10 +19,11 @@
 
 **Steps:**
 1. Click filter button in the upper right corner
-2. Select any filter from the drop-down list
+2. Select Price (low to high) filter from the drop-down list 
 3. Click on the selected option from the list
 
-**Expected Result:** User  sees the product cards in the order corresponding to the selected one
+**Expected Result:** Products are sorted by price in ascending order
+First product price is less than or equal to the second product price
 
 ### TC-03: Add an item to the shopping cart
 **Preconditions:** 
@@ -62,7 +63,7 @@ Cart counter equals 1
 **Steps:**
 1.  Click on the "Continue Shopping" button at the bottom of the page
 
-**Expected Result:** User successfully navigated to the main page
+**Expected Result:** User successfully navigates to the product page with detailed information about the product (size, material, color, manufacturer), price and product photo
 
 ### TC-06: Checkout
 **Preconditions:** 
@@ -74,7 +75,7 @@ Cart counter equals 1
 **Steps:**
 1. Select any product from the product list
 2. Click on the "Add to cart" button in the lower-right corner of the product card
-3. Click on the cartons button in the upper-right corner of the page
+3. Click on the cart icon button in the upper-right corner of the page
 4. Click on the "Checkout" button at the bottom of the page
 5.  Enter your First name
 6.  Enter your Last name
@@ -107,7 +108,7 @@ Cart counter equals 1
 
 **Expected Result:** User goes to the Facebook page by opening a new tab
 
-### TC-9: Access to the about page via the menu
+### TC-09: Access to the about page via the menu
 **Preconditions:** 
 - User is logged in
 - User is on main page  
@@ -132,7 +133,6 @@ Cart counter equals 1
 2.  click on the "Logout" section in the menu
 
 **Expected Result:** User is on login page
-
 
 
 ### TC-N-01: Checkout with invalid name
