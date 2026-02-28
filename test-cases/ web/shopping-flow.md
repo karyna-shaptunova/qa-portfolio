@@ -34,10 +34,11 @@
 **Steps:**
 1. Select any product from the product list
 2. Click on the "Add to cart" button in the lower-right corner of the product card
-3. Click on the cartons button in the upper-right corner of the page
-4. Check the addition of the product
+3. Click on the cart icon button in the upper-right corner of the page
 
-**Expected Result:** User sees the cart page with the added product/products
+**Expected Result:** Cart page is displayed
+Selected product name, price and quantity are shown
+Cart counter equals 1
 
 ### TC-04: Return to the main page from product page 
 **Preconditions:** 
@@ -51,22 +52,7 @@
 
 **Expected Result:** User successfully navigated to the main page
 
-### TC-05: Add an item to the shopping cart
-**Preconditions:** 
-- User is logged in
-- User is on main page  
-
-**Type:** Functional
-
-**Steps:**
-1. Select the product you like
-2. Click on the "Add to cart" button in the lower-right corner of the product card
-3. Click on the cart button in the upper-right corner of the page
-4. Check the addition of the product
-
-**Expected Result:** User sees the cart page with the added product/products
-
-### TC-06: Return to the main page from cart page 
+### TC-05: Return to the main page from cart page 
 **Preconditions:** 
 - User is logged in
 - User is on cart page  
@@ -78,7 +64,7 @@
 
 **Expected Result:** User successfully navigated to the main page
 
-### TC-07: Checkout
+### TC-06: Checkout
 **Preconditions:** 
 - User is logged in
 - User is on main page  
@@ -86,7 +72,7 @@
 **Type:** Functional
 
 **Steps:**
-1. Select the product you like
+1. Select any product from the product list
 2. Click on the "Add to cart" button in the lower-right corner of the product card
 3. Click on the cartons button in the upper-right corner of the page
 4. Click on the "Checkout" button at the bottom of the page
@@ -97,7 +83,7 @@
 
 **Expected Result:** User receives a message about a successful Checkout.
 
-### TC-08: Removing a product from the shopping cart 
+### TC-07: Removing a product from the shopping cart 
 **Preconditions:** 
 - User is logged in
 - User is on cart page  
@@ -109,7 +95,7 @@
 
 **Expected Result:** User sees empty Cart
 
-### TC-09: Checking button social media
+### TC-08: Checking button social media
 **Preconditions:** 
 - User is logged in
 - User is on product page  
@@ -119,9 +105,9 @@
 **Steps:**
 1.  Click on the "Facebook" button at the bottom of the product page
 
-**Expected Result:** User went to the Facebook page
+**Expected Result:** User goes to the Facebook page by opening a new tab
 
-### TC-10: Access to the about page via the menu
+### TC-9: Access to the about page via the menu
 **Preconditions:** 
 - User is logged in
 - User is on main page  
@@ -134,7 +120,7 @@
 
 **Expected Result:** User went to the about page
 
-### TC-11: Logout
+### TC-10: Logout
 **Preconditions:** 
 - User is logged in
 - User is on main page  
@@ -203,9 +189,9 @@
 **Type:** Negative  
 
 **Steps:**
-1. Checkout with invalid name (Arabic alphabet)
-2. Enter your Last name
-3. Enter your postal code
-4. Click continue
+1. Enter Arabic characters in the First Name field
+2. Enter valid Last Name
+3. Enter valid Postal Code
+4. Click Continue
 
 **Expected Result:** User sees the error message
